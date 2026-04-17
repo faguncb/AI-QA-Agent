@@ -1,0 +1,7 @@
+node_modules/
+dist/
+.env
+screenshots/
+reports/
+*.js.map
+.idea
